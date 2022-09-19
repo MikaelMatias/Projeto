@@ -1,0 +1,71 @@
+.listarfoto img {
+    width: 1%;
+}
+
+.topo{
+    align-items: flex-start; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.letra a {
+    color: #fff;
+}
+.content {
+    position: absolute;
+    width: 100%;
+    z-index: 1000;
+    background-color: rgba (0,0,0,0.7);
+    align-content: center;
+}
+
+.content h1{
+    text-align: center;
+    font-size: 100px;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-stretch: ultra-expanded;
+    color: #fff;
+    background-color: rgba (0,0,0,0.7);
+}
+
+.content h3{
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-stretch: ultra-expanded;
+    color: #fff;
+}
+
+.wrapper {
+  width: 100%;
+  min-height: 50%;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  margin-top: 90px;
+}
+
+.cabeca{
+    background-color: rgba(255,255,255,0.7);
+}
+
+.todo{
+    height: 25vh;
+    align-items: baseline;
+    background-color: #b21c1e;
+    display: flex;
+    justify-content: center;
+}
+
+imgajuste {
+    width: 10%;
+}
+
